@@ -1,0 +1,11 @@
+/Users/suriya/Code/SIT232/1.2/bin/Debug/netcoreapp2.0/1.2.deps.json
+/Users/suriya/Code/SIT232/1.2/bin/Debug/netcoreapp2.0/1.2.runtimeconfig.json
+/Users/suriya/Code/SIT232/1.2/bin/Debug/netcoreapp2.0/1.2.runtimeconfig.dev.json
+/Users/suriya/Code/SIT232/1.2/bin/Debug/netcoreapp2.0/1.2.dll
+/Users/suriya/Code/SIT232/1.2/bin/Debug/netcoreapp2.0/1.2.pdb
+/Users/suriya/Code/SIT232/1.2/obj/Debug/netcoreapp2.0/1.2.csprojAssemblyReference.cache
+/Users/suriya/Code/SIT232/1.2/obj/Debug/netcoreapp2.0/1.2.csproj.CoreCompileInputs.cache
+/Users/suriya/Code/SIT232/1.2/obj/Debug/netcoreapp2.0/1.2.AssemblyInfoInputs.cache
+/Users/suriya/Code/SIT232/1.2/obj/Debug/netcoreapp2.0/1.2.AssemblyInfo.cs
+/Users/suriya/Code/SIT232/1.2/obj/Debug/netcoreapp2.0/1.2.dll
+/Users/suriya/Code/SIT232/1.2/obj/Debug/netcoreapp2.0/1.2.pdb
