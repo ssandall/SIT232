@@ -12,7 +12,7 @@ public class Account{
 
     }
 
-    // Account Method
+    // Account Constructor
     public Account (string name, decimal startingBalance){
 
         _name = name;
