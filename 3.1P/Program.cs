@@ -112,7 +112,15 @@ public class Program
         Console.WriteLine("Enter a guess between {0} and {1}",min,max);
         do
         {
+            try
+            {
             enteredValue = Convert.ToInt32(Console.ReadLine());
+            }
+            catch
+            {
+                Console.WriteLine("Invalid Entry, please enter a number between {0} and {1}.",min,max);
+                enteredValue = -1;
+            }
         } 
         while (enteredValue < min || enteredValue > max);
 
